@@ -6351,9 +6351,9 @@ __metadata:
   linkType: hard
 
 "http-cache-semantics@npm:^4.1.0":
-  version: 4.1.0
-  resolution: "http-cache-semantics@npm:4.1.0"
-  checksum: 974de94a81c5474be07f269f9fd8383e92ebb5a448208223bfb39e172a9dbc26feff250192ecc23b9593b3f92098e010406b0f24bd4d588d631f80214648ed42
+  version: 4.1.1
+  resolution: "http-cache-semantics@npm:4.1.1"
+  checksum: 83ac0bc60b17a3a36f9953e7be55e5c8f41acc61b22583060e8dedc9dd5e3607c823a88d0926f9150e571f90946835c7fe150732801010845c72cd8bbff1a236
   languageName: node
   linkType: hard
 
@@ -10158,6 +10158,22 @@ __metadata:
   languageName: node
   linkType: hard
 
+"register@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "register@workspace:."
+  dependencies:
+    "@testing-library/jest-dom": ^5.16.3
+    "@testing-library/react": ^12.1.4
+    "@testing-library/user-event": ^13.5.0
+    react: ^17.0.2
+    react-dom: ^17.0.2
+    react-icons: ^4.3.1
+    react-router-dom: ^6.2.2
+    react-scripts: 5.0.0
+    web-vitals: ^2.1.4
+  languageName: unknown
+  linkType: soft
+
 "regjsgen@npm:^0.6.0":
   version: 0.6.0
   resolution: "regjsgen@npm:0.6.0"
@@ -10679,22 +10695,6 @@ __metadata:
   checksum: a2f098f247adc367dffc27845853e9959b9e88b01cb301658cfe4194352d8d2bb32e18467c786a7fe15f1d44b233ea35633d076d5e737870b7139949d1ab6318
   languageName: node
   linkType: hard
-
-"sistema-chamadas@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "sistema-chamadas@workspace:."
-  dependencies:
-    "@testing-library/jest-dom": ^5.16.3
-    "@testing-library/react": ^12.1.4
-    "@testing-library/user-event": ^13.5.0
-    react: ^17.0.2
-    react-dom: ^17.0.2
-    react-icons: ^4.3.1
-    react-router-dom: ^6.2.2
-    react-scripts: 5.0.0
-    web-vitals: ^2.1.4
-  languageName: unknown
-  linkType: soft
 
 "sisteransi@npm:^1.0.5":
   version: 1.0.5
